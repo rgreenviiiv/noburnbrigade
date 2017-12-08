@@ -1,0 +1,35 @@
+/*html {
+  background: url(https://images.homedepot-static.com/productImages/276a3db0-630b-4ead-9276-6bc40a8650e8/svn/stock-signs-pse-0090-64_1000.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather:700');
+
+h1,h2,h3,h4,h5{
+  font-family: 'Merriweather', serif;
+}
+
+.fbCon {
+  text-align: center;
+}
+form{
+  float: left;
+  margin-right: 45px;
+}
+input[type=radio]{
+  text-decoration: !important;
+  /*background-color: !important;*/
+}
+.imghide{
+  display: none;
+}
+.flo{
+  float: right;
+}
+.fireTest{
+  border-style: dashed;
+  border-color: red;
+}
